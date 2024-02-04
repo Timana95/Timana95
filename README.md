@@ -1,10 +1,6 @@
-- 👋 Hi, I’m Luis Timaná, @Timana95
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
-<!---
-Timana95/Timana95 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👋 Hello, I'm Luis Timaná, @Timana95
+👀 I am a university professor passionate about research and programming.
+🌱 Currently, I am learning everything related to robust AI applications.
+📫 You can contact me at the email: luistimana.00@gmail.com
+
